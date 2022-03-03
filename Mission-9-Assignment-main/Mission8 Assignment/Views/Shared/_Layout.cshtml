@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+   
+    <link rel="stylesheet" href="~/L/bootstrap/b2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/look.css" />
+</head>
+<body>
+    <header>
+        <div class="bg-dark text-white p-2">
+            <div class="container">
+               <center><a class="navbar-brand text-white" asp-area="" asp-action="Index">YUZE BOOK STORE</a></center>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                
+                </div>
+            </div>
+        </div>
+    </header>
+    <div>
+        <vc:categories></vc:categories>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <center>
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2022 - YUZE DONG BOOK STORE
+            </div>
+        </footer>
+    </center>
+</body>
+</html>

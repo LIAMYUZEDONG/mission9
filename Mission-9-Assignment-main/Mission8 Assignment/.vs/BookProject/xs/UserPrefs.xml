@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BBF3C653-6F64-4B77-BA7D-432F0D41A546}|Mission7">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/CartCompleted.cshtml">
+    <Files>
+      <File FileName="Controllers/CartController.cs" Line="42" Column="1" />
+      <File FileName="Pages/CartCompleted.cshtml" Line="11" Column="1" />
+      <File FileName="Pages/CartCompleted.cshtml.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookProject" expanded="True">
+            <Node name="BookProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="CartCompleted.cshtml" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
