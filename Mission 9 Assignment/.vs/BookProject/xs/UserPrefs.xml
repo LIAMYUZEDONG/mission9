@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{BBF3C653-6F64-4B77-BA7D-432F0D41A546}|Mission7">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Components/CartSummary/Default.cshtml">
+    <Files>
+      <File FileName="Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/ProjectSummary.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="20" Column="42" />
+      <File FileName="Views/Shared/Components/CartSummary/Default.cshtml" Line="20" Column="1" />
+      <File FileName="Views/Shared/Components/CartSummary/CartSummaryViewComponent.cs" Line="17" Column="2" />
+      <File FileName="Models/Cart.cs" Line="29" Column="18" />
+      <File FileName="Models/Basket.cs" Line="42" Column="37" />
+      <File FileName="Views/Cart/Checkout.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookProject" expanded="True">
+            <Node name="BookProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Cart.cshtml" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Cart" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="CartSummary" expanded="True">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="L" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
